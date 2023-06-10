@@ -8,7 +8,7 @@ ctx = canvas.getContext("2d");
 var width = screen.width;
 
 new_width = screen.width - 70;
-new_height = screen.height - 300;
+new_height = screen.height - 400;
 
 var color = "black";
 var lw = 3;
