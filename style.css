@@ -1,0 +1,21 @@
+#b_bg{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color:darkslategrey;
+    font-size: 40px;
+}
+
+canvas{
+    border-width: 10px;
+    border-radius: 30px;
+    border-style: ridge;
+    background-color: white;
+}
+
+span{
+    margin-left : 30px;
+}
